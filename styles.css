@@ -3,7 +3,7 @@
 
 /* Your CSS Code here. */
 /* Styles for the video player */
-.player {
+.wrapper {
     max-width: 750px;
     margin: 50px auto;
     display: flex;
